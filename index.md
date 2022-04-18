@@ -19,7 +19,7 @@
 
 				<!-- Header -->
 					<header id="header" class="alt">
-						<h1><a href="index.html">Aux Pieds Bavards - O76 424.76.79</a></h1>
+						<h1><a href="index.html">Aux Pieds Babards - O76 424.76.79</a></h1>
 						<nav id="nav">
 							<ul><!---->
 								<li class="special">
