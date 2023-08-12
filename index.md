@@ -88,8 +88,8 @@
 		<div class="image"><img src="images/pic03.jpg" alt="" /></div><div class="content">
 			<h2>Tarifs<br /></h2>
 			<p>A régler sur place ; en espèces ou par TWINT.</p>
-			<p> (dès 13 ans) et adultes : 100.- la séance d’une heure.
-				<br />Enfants et bébés : 80.- <br />La séance est plus courte et se fait en fonction de leur capacité  à rester assis ou couché. La 1ère séance se fait toujours avec la présence d’un parent.
+			<p> (dès 13 ans) et adultes : 110.- la séance d’une heure.
+				<br />Enfants et bébés : 90.- <br />La séance est plus courte et se fait en fonction de leur capacité  à rester assis ou couché. La 1ère séance se fait toujours avec la présence d’un parent.
 				
 				<br />Lors du 1er rdv, prévoir 30 minutes supplémentaires (anamnèse), pour le même prix.
 				<h2>Remboursement<br /></h2>Agréée ASCA, mes prestations en réflexologie sont prises en charge par bon nombre de caisses maladies complémentaires ; veillez à vous renseigner auprès de la vôtre à ce sujet. 
